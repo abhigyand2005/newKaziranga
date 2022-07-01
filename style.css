@@ -71,6 +71,8 @@
 
 .navbar-brand{
     color: #2dbd9b;
+    font-size: 29px;
+    margin-left: 150px;
 }
 
 .park{
@@ -81,3 +83,37 @@
     margin-right: 49px;
 }
 
+.deArr{
+    height: 60px;
+}
+
+.title{
+    font-size: 33px;
+    justify-content: center;
+    display: flex;
+    color: #2dbd9b;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text{
+    margin: 0 170px 30px 170px ;
+}
+
+.cardTwo{
+    display: flex;
+}
+
+.duration{
+    font-style: italic;
+    font-size: 12px;
+}
+
+.card-style{
+    background-color:#2dbd9b ;
+    border: none;
+}
+
+.viewq{
+    margin-left: 690px;
+}
