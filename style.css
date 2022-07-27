@@ -112,6 +112,8 @@
 .card-style{
     background-color:#2dbd9b ;
     border: none;
+    text-decoration: none;
+    color: white;
 }
 
 .viewq{
